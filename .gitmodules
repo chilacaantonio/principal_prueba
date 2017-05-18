@@ -1,0 +1,3 @@
+[submodule "rama1/modulo1"]
+	path = rama1/modulo1
+	url = https://github.com/chilacaantonio/modulo1.git
