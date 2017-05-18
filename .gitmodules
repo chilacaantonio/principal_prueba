@@ -1,6 +1,0 @@
-[submodule "rama1/modulo1"]
-	path = rama1/modulo1
-	url = https://github.com/chilacaantonio/modulo1.git
-[submodule "rama2"]
-	path = rama2
-	url = https://github.com/chilacaantonio/modulo2.git
