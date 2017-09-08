@@ -1,0 +1,3 @@
+[submodule "dir1/componente_prueba"]
+	path = dir1/componente_prueba
+	url = https://github.com/chilacaantonio/modulo2.git
